@@ -20,6 +20,6 @@ format:
   html:
     theme: default    
     css: styles.css
-
+output-dir: docs
 
 
