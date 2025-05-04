@@ -1,0 +1,18 @@
+---
+title: "Education"
+---
+
+## Education
+
+::: card
+-   **New York University**, M.Sc. Integrated Marketing (Sep 2023 – May 2025)\
+    GPA: 3.9/4.0\
+:::
+
+::: card
+-   **Suffolk University**, B.Sc. Entrepreneurship (Sep 2018 – May 2022)\
+    GPA: 3.6/4.0
+    -   Dean’s List (4 terms)\
+    -   Gleason Archer Scholarship Recipient\
+    -   *Cum Laude* Graduate\
+:::

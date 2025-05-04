@@ -1,0 +1,19 @@
+---
+title: "Skills"
+---
+
+## Skills & Certifications
+
+::: columns
+::: column
+-   **AI Tools:** ChatGPT, Midjourney, Invideo AI\
+-   **Data Analysis:** SPSS, SAS Studio, Data Visualization\
+-   **Digital Marketing:** SEO/SEM, Social Media Management\
+:::
+
+::: column
+-   **Business Tools:** Microsoft Office Suite, Canva\
+-   **Certifications:** Google Ads (Search, Display, Video); Meta Digital Marketing Associate; Spotify Ad Studio Foundations\
+-   **Languages:** Mandarin (Native); English (Fluent)\
+:::
+:::

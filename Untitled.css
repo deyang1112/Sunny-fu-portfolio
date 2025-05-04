@@ -1,0 +1,67 @@
+/* ==========================
+   Pink-Themed Resume Styles
+   ========================== */
+
+:root {
+  --bs-primary: #ffe4e4;                /* navbar + accents */
+  --bs-primary-rgb: 255, 228, 228;
+  --bs-secondary: #e75480;              /* deep pink for hover/text */
+  --bs-body-font-family: "Poppins", sans-serif;
+  --bs-body-color: #333;
+}
+
+/* === Page Background === */
+body {
+  background: linear-gradient(135deg, #fff0f6, #ffeef2);
+  font-family: var(--bs-body-font-family);
+  color: var(--bs-body-color);
+}
+
+/* === Navbar Custom === */
+.navbar {
+  background-color: var(--bs-primary) !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #d6336c !important;
+  font-weight: 500;
+}
+
+.navbar .nav-link.active,
+.navbar .nav-link:hover {
+  color: #b3003b !important;
+}
+
+/* === Callout === */
+.callout-tip {
+  background-color: #ffeef6;
+  border-left: 5px solid var(--bs-secondary);
+  border-radius: 0.5rem;
+  padding: 1.25rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.03);
+}
+
+/* === Card === */
+.card {
+  background: #fff;
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.04);
+}
+
+/* === Two-column layout === */
+.columns {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.column {
+  flex: 1;
+}
+
+
+

@@ -1,0 +1,29 @@
+---
+title: "Leadership"
+---
+
+## Leadership Experience
+
+::: card
+### Christopher’s Haven — Fundraising Volunteer Leader
+
+**Jan 2022 – May 2022**, Boston, MA\
+- Led outreach to 100+ organizations via email campaigns, boosting awareness of children’s cancer initiatives.\
+- Crafted digital marketing plans that increased donor engagement by 15% and community outreach by 40%.
+:::
+
+::: card
+### CSSA — Public Relations Department Leader
+
+**Sep 2019 – May 2020**, Boston, MA\
+- Secured sponsorships from 20+ enterprises for student events.\
+- Pioneered email and social-media campaigns, driving a 10% rise in attendance and 50% sponsor engagement growth.
+:::
+
+::: card
+### YMCA International Learning Center — Marketing Volunteer Leader
+
+**Sep 2018 – Dec 2018**, Boston, MA\
+- Organized joint events with 50+ businesses, growing partnerships by 20%.\
+- Designed Canva-based posts and newsletters, increasing engagement by 25% and ad reach by 30%.
+:::

@@ -1,0 +1,38 @@
+---
+title: "Experience"
+---
+
+## Professional Experience
+
+::: card
+### Qihoo 360 — Marketing & Event Partnerships Intern
+
+**May 2024 – Aug 2024**, Beijing, China\
+- Coordinated PR, finance, and tech teams to secure sponsors for the Internet Security & AI Conference, driving \$800K+ in revenue through 50+ exhibitor partnerships.\
+- Designed two sponsorship tiers (“Brand Exposure” vs. “Interactive Engagement”), achieving a 20% upgrade rate and extra \$150K.\
+- Launched an AI-powered exhibition with live Douyin streaming, boosting foot traffic by 20% and generating 1M+ social impressions.
+:::
+
+::: card
+### Invincible Warrior Technology Co., Ltd. — Growth Marketing & ASO Strategy Intern
+
+**May 2023 – Aug 2023**, Chengdu, China\
+- Led ASO strategy for U.S. launches of 3+ mobile games: keyword optimization, A/B testing, competitor analysis—improving search rankings by 15%.\
+- Managed Facebook ads with a \$10K budget, acquiring 3,000+ users at a 2× ROI.
+:::
+
+::: card
+### Beehome Realty — Digital Marketing & CRM Intern
+
+**Jul 2022 – Apr 2023**, Boston, MA\
+- Used CRM and market analysis to match 20+ clients with properties, boosting satisfaction by 25% and securing 10+ firm partnerships.\
+- Developed social-media campaigns that increased exposure by 40% and engagement by 20%.
+:::
+
+::: card
+### Sephora — Marketing Analytics & Consumer Insights Intern
+
+**May 2019 – Aug 2019**, Chengdu, China\
+- Built a product-recommendation framework from survey and purchase data, raising monthly sales by 15%.\
+- Ran sentiment analysis in Google Analytics, guiding social strategy that grew market share by 10%.
+:::

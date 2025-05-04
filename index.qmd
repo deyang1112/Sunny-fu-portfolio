@@ -1,0 +1,18 @@
+---
+title: "Xiaotong Fu"
+---
+
+::: callout-tip
+![Profile Photo](profile.jpg){width="120px" style="border-radius:50%; display:block; margin:auto;"}
+
+# Xiaotong Fu (付小桐)
+
+**Integrated Marketing & Data Analyst**\
+New York, NY │ 781-502-6612 │ sunnyfu415\@gmail.com │ [GitHub](https://github.com/yourusername)
+:::
+
+::: callout-tip
+![Portrait of Xiaotong Fu](images/WechatIMG9558.jpg){width="120px" style="border-radius:50%; display:block; margin:auto;"}
+:::
+
+Welcome! I’m a data-driven marketer who loves blending analytics with creativity—and of course, a touch of pink. Explore my resume below!

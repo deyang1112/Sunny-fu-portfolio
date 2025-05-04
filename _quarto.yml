@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Sunny Fu—Online Resume"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Education"
+        href: education.html
+      - text: "Experience"
+        href: experience.html
+      - text: "Leadership"
+        href: leadership.html
+      - text: "Skills"
+        href: skills.html
+
+format:
+  html:
+    theme: default    
+    css: styles.css
+
+
+
