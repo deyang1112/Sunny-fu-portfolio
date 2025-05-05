@@ -18,8 +18,8 @@ website:
 
 format:
   html:
-    theme: default    
+    theme: lumen
     css: styles.css
-output-dir: docs
 
+output-dir: docs
 
